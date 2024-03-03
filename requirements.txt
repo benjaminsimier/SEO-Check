@@ -16,3 +16,4 @@ tqdm==4.62.3
 urllib3==1.26.7
 Werkzeug==3.0.1
 zipp==3.17.0
+uwsgi==2.0.19.1
